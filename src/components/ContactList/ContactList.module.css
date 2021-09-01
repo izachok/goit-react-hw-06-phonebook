@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.itemName {
+  font-weight: 500;
+}
+
+.itemPhone {
+  margin-right: 10px;
+  margin-left: 10px;
+}

@@ -1,0 +1,6 @@
+.fieldInput {
+  margin: 2px 2px 2px 10px;
+  max-width: 200px;
+  border: 1px solid var(--dark-grey-color);
+  padding: 5px;
+}

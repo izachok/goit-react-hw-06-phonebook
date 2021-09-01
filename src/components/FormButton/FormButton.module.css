@@ -1,0 +1,19 @@
+.button {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  color: var(--main-dark-color);
+  background-color: var(--accent-dark-color);
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.button:hover {
+  background-color: var(--main-dark-color);
+  color: var(--accent-dark-color);
+}
+
+.button:disabled {
+  background-color: var(--grey-color);
+  color: var(--accent-dark-color);
+}
